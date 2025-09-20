@@ -64,6 +64,4 @@ Hỗ trợ xác thực bằng **JWT** kèm **refresh token** và cơ chế **tok
    java -jar target/task-management-0.0.1-SNAPSHOT.jar
    ```
 3. **Mặc định server chạy tại**
-  ```bash
-  http://localhost:8080/api
-  ```
+  `http://localhost:8080/api`
